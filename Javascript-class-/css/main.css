@@ -1,0 +1,43 @@
+.lolem{
+	background-color: black;
+	width: 200px;
+	height: 300px;
+	margin:0px auto;
+
+}
+.casea{
+	border-radius: 60px;
+	background-color: red;
+	height: 90px;
+	width: 90px;
+	padding-bottom: 5px;
+	margin: 5px auto;
+
+}
+.caseb{
+	border-radius: 60px;
+	background-color:orange;
+	height: 90px;
+	width: 90px;
+	padding-bottom:5px;
+    margin: 5px auto;
+
+
+
+}
+.casec{
+	border-radius: 60px;
+	background-color: green;
+	height: 90px;
+	width: 90px;
+	padding-bottom: 5px;
+    margin: 5px auto;
+
+
+}
+.tas{
+	background-color: black;
+	width: 50px;
+	height:300px;
+	margin: 0 auto;
+}
